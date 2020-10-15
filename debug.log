@@ -1,0 +1,2 @@
+[1014/090547.039:ERROR:settings.cc(430)] Settings version is not 5
+[1014/092213.768:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
