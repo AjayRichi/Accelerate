@@ -14,6 +14,7 @@ class Search extends Component {
             submit: false,
             button: false,
             corona: "",
+            
         }
     }
 
