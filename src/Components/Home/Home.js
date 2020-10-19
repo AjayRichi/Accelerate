@@ -69,17 +69,6 @@ class Home extends Component {
                                         }
                                     }}
                                 />
-                                {/* <div className="outer">
-                                    <div className="inner">
-                                        
-                                    </div>
-                                </div> */}
-                                {/* <div className="values">
-                                    <h6 style={{ color: " rgb(0, 60, 255) " }}>40% Health</h6>
-                                    <h6 style={{ color: "green" }}>15% Misc Health</h6>
-                                    <h6 style={{ color: "yellow" }}>20% Other</h6>
-                                    <h6 style={{ color: "red" }}>25% Retirement</h6>
-                                </div> */}
                             </div>
                         </div>
                         &nbsp;&nbsp;&nbsp;
