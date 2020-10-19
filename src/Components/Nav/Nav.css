@@ -1,0 +1,30 @@
+.head {
+    color: whitesmoke;
+    padding-left: 10px;
+    padding-right: 15px;
+    border-right: 1.5px solid whitesmoke;
+    text-align: center;
+  }
+
+  .navbar{
+    background-color: #47BCBD;
+    margin-left: 140px; /* Same width as the sidebar + left position in px */
+    /* width: 100%; */
+  }
+  
+
+  .nav-link{
+    font-size: 1.2em;
+    color: whitesmoke;
+  }
+
+  .navbar-brand{
+    color: whitesmoke;
+;  } 
+
+  @media screen and (max-width:1024px){
+    .navbar{
+      width: 100%;
+    }
+  }
+
