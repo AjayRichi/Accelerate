@@ -38,17 +38,6 @@ class Home extends Component {
     render() {
         return (
             <React.Fragment>
-                <Nav></Nav>
-                <div className="sidenav">
-                    <a href="">Dashboard</a>
-                    <a href="#accounts">Accounts</a>
-                    <a href="#profile">Profile</a>
-                    <a href="#activity">Activity</a>
-                    <a href="#support">Support</a>
-                    <a href="#addcash">Add Cash</a>
-                    <a href="#getcash">Get Cash</a>
-
-                </div>
                 <div className="container">
                     <h4 className="heading">Welcome to Your personalized benefit dashboard,ABC </h4>
                     <h2 style={{fontWeight:"bold"}}>Dashboard</h2>
@@ -71,7 +60,6 @@ class Home extends Component {
                                 />
                             </div>
                         </div>
-                        &nbsp;&nbsp;&nbsp;
                         <div className="card col-md-6 " >
                             <div className="card-body">
                                 <h3 className="card-title">Contributions overview  <a className="link" href="#edit" >Edit</a></h3>
